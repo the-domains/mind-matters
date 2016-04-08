@@ -17,8 +17,8 @@ keywords:
   - read
   - irrational
 description: 'Help with Phobias "A phobia is usually defined as a persistent fear of an object or situation, which the affected person will go to great lengths to avoid, typically disproportional to the actual danger posed" - Wikipedia. Phobias are a form of Anxiety Disorder, very similar to Post Traumatic Stress Disorder.'
-datePublished: '2016-04-08T06:52:12.138Z'
-dateModified: '2016-04-08T06:52:03.776Z'
+datePublished: '2016-04-08T07:18:24.938Z'
+dateModified: '2016-04-08T07:18:21.979Z'
 author:
   - name: ''
     url: null
@@ -26,14 +26,14 @@ author:
 related: []
 app_links: []
 title: Phobias Archives - Changes Welcome Hypnotherapy
+sourcePath: _posts/2016-04-08-phobias-archives-changes-welcome-hypnotherapy.md
+published: true
 authors: []
 publisher:
   name: Changes Welcome Hypnotherapy
   domain: www.changeswelcome.com
   url: 'http://www.changeswelcome.com'
   favicon: 'http://www.changeswelcome.com/wp-content/uploads/2016/02/cropped-ChangesWelcome.com_-192x192.png'
-sourcePath: _posts/2016-04-08-phobias-archives-changes-welcome-hypnotherapy.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
