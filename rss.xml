@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mind Matters]]></title>
+        <description><![CDATA[Mind Matters]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Apr 2016 06:52:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Phobias Archives - Changes Welcome Hypnotherapy]]></title>
+            <description><![CDATA[<article><h1>Phobias Archives - Changes Welcome Hypnotherapy</h1><p>Help with Phobias "A phobia is usually defined as a persistent fear of an object or situation, which the affected person will go to great lengths to avoid, typically disproportional to the actual danger posed" - Wikipedia. Phobias are a form of Anxiety Disorder, very similar to Post Traumatic Stress Disorder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d862fc96f207ad42a492b9b025e0770bd5e0a6e.jpg"></article>]]></description>
+            <link>http://www.changeswelcome.com/category/issues-we-help/help-with-phobias/</link>
+            <guid isPermaLink="false">06437f1e-6c66-4d26-82b5-1c69396bd82c</guid>
+            <pubDate>Fri, 08 Apr 2016 06:52:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
