@@ -1,7 +1,7 @@
 name: Mind Matters
 favicon: null
-layout_spectrum: 0.629305869108066
-typography_spectrum: 0.467386644333601
+layout_spectrum: 0.74969
+typography_spectrum: 0.46501
 title: Mind Matters
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9751964535098523
-  lightness: 0.7900147461332381
-  saturation: 0.12235359335318208
-  rhythmicContrast: 0.09717085445299745
+    - '#ffffff'
+    - '#a1b963'
+    - '#7b8f50'
+    - '#442d68'
+    - '#685886'
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
