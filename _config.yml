@@ -1,4 +1,4 @@
-name: Mind Matters
+name: Mind Matters 365
 favicon: null
 layout_spectrum: 0.74969
 typography_spectrum: 0.46501
@@ -22,7 +22,7 @@ color:
     - '#7b8f50'
     - '#442d68'
     - '#685886'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.375
   saturation: 0.9375
   rhythmicContrast: 0.25
