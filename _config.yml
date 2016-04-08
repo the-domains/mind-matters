@@ -2,13 +2,13 @@ name: Mind Matters
 favicon: null
 layout_spectrum: 0.74969
 typography_spectrum: 0.46501
-title: Mind Matters
+title: Mind Matters 365
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-39145417-4
   facebook: null
   twitter: null
 opengraph:
