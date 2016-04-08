@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Changes Welcome Hypnotherapy Free Hypnotherapy Downloads
-datePublished: '2016-04-08T06:10:07.795Z'
-dateModified: '2016-04-08T06:09:47.724Z'
+datePublished: '2016-04-08T06:13:08.863Z'
+dateModified: '2016-04-08T06:10:15.039Z'
 title: Free Self-Hypnosis Downloads
 author: []
+sourcePath: _posts/2016-04-08-free-self-hypnosis-downloads.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-free-self-hypnosis-downloads.md
-published: true
 _type: Blurb
 
 ---
